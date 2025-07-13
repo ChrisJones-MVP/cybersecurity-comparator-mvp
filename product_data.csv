@@ -1,0 +1,3 @@
+Product,Detection,Automation,Ease of Use,Compliance,Integrations,MITRE ATT&CK,Pricing
+CrowdStrike XDR,9.5/10,Yes,Medium,"HIPAA, NIST","Azure AD, Okta",Full Coverage,$$$
+Sophos XDR,8.2/10,Partial,Easy,"GDPR, NIST","Microsoft, Firewalls",Moderate Coverage,$$
